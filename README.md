@@ -1,0 +1,2 @@
+# Ethereal-Bot
+Ethereal botie
